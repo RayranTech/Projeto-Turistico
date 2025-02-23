@@ -1,0 +1,67 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", serif;
+  box-sizing: border-box;
+}
+
+#container {
+    max-width: 1100px;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+
+article {
+    margin-bottom: 2rem;
+}
+
+section {
+    margin-bottom: 1rem;
+}
+
+main {
+    margin-bottom: 2rem;
+}
+
+footer {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+span {
+    color: red;
+    font-weight: bold;
+    line-height: 3rem;
+}
+
+h1 {
+    margin-bottom: 0.5rem;
+}
+
+p {
+    color: #333;
+    font-size: 13px;
+}
+
+section + p {
+    font-weight: bold;
+    color: black;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+a {
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: bold;
+}
+img {
+    margin-top: 1rem;
+}
+
+.signature {
+    margin-top: 1rem;
+    font-weight: bold;
+}
