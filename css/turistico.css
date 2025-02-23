@@ -65,3 +65,15 @@ img {
     margin-top: 1rem;
     font-weight: bold;
 }
+
+.purple {
+    color: purple;
+}
+
+.pink {
+    color: rgb(228, 104, 124);
+}
+
+.orange {
+    color: orange;
+}
